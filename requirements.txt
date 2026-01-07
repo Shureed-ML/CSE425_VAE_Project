@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+scikit-learn
+librosa
+sentence-transformers
+umap-learn
+matplotlib
+tqdm
